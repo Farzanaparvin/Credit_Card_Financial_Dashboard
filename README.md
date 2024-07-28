@@ -1,4 +1,6 @@
 # Credit_Card_Financial_Dashboard
+Project Objective:
+Create an extensive weekly dashboard for credit cards, offering real-time insights into critical performance metrics and trends. This dashboard will empower stakeholders to effectively monitor and analyze credit card operations.
 Power Bi Dashboard
 Overview :
 • Overall revenue is 58M
